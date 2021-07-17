@@ -1,4 +1,4 @@
-# Xsolla School 2021. Backend. Test task.
+# Xsolla School 2021. Backend. Test Task
 
 Отборочное задание в школу по backend разработке Xsolla 2021: 
   - [Постановка задачи](https://github.com/xsolla/xsolla-school-backend-2021/blob/main/README.md)
