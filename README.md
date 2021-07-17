@@ -1,13 +1,11 @@
 # xsolla-backend-school
 
 - Отборочное задание: 
- - [Постановка задачи](https://github.com/xsolla/xsolla-school-backend-2021/blob/main/README.md)
+ - [Отборочное задание](https://github.com/xsolla/xsolla-school-backend-2021/blob/main/README.md)
  - [Технологии](#технологии)
  - [Описание интерфейса](#описание-интерфейса)
  - [Последовательность действий для запуска и тестирования API](#последовательность-действий-для-запуска-и-тестирования-api)
 
-
-### [Отборочное задание](https://github.com/xsolla/xsolla-school-backend-2021/blob/main/README.md)
 
 ## Технологии
   *Здесь надо написать про технологии*
