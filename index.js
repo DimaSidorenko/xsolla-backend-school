@@ -5,6 +5,7 @@ const bodyParser = require("body-parser")
 const app = express();
 
 const uri = process.env.MONGODB_URI;
+//const uri = "mongodb://localhost/market-db";
 
 mongoose.connect(uri, { useNewUrlParser : true });
 
