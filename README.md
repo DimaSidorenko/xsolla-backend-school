@@ -57,6 +57,8 @@
 ## Тестирование не Heroku
 [Ссылка на приложение](https://market-xsolla.herokuapp.com/api/market/all)
 
+- Запросы GET и DELETE можно выполнять из браузера 
+- Для запросов PUT и POST можно воспользоваться приложением Postman
 
 
 
