@@ -55,7 +55,7 @@
 
 
 ## Тестирование не Heroku
-[Ссылка на приложение](https://market-xsolla.herokuapp.com/)
+[Ссылка на приложение](https://market-xsolla.herokuapp.com/api/market/all)
 
 
 
