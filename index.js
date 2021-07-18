@@ -6,7 +6,7 @@ const app = express();
 
 const uri = process.env.MONGODB_URI;
 
-mongoose.connect("uri", { useNewUrlParser : true });
+mongoose.connect(uri, { useNewUrlParser : true });
 
 app.use(bodyParser.json());
 app.use("/api", require("./api"));
