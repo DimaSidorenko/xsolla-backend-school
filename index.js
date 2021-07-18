@@ -12,6 +12,6 @@ mongoose.connect(uri, { useNewUrlParser : true });
 app.use(bodyParser.json());
 app.use("/api", require("./api"));
 
-app.listen(27017, ()=>{
+app.listen(process.env.PORT || 5000, ()=>{
     console.log("server is listening");
 })
