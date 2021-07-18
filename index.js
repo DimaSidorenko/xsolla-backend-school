@@ -4,14 +4,14 @@ const bodyParser = require("body-parser")
 
 const app = express();
 
-//const uri = process.env.MONGODB_URI;
-const uri = "mongodb://localhost/market-db";
+const uri = process.env.MONGODB_URI;
+//const uri = "mongodb://localhost/market-db";
 
 mongoose.connect(uri, { useNewUrlParser : true });
 
 app.use(bodyParser.json());
 app.use("/api", require("./api"));
 
-app.listen(4000, ()=>{
+app.listen(27017, ()=>{
     console.log("server is listening");
 })
